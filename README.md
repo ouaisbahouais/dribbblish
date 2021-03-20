@@ -11,7 +11,7 @@ Requires spicetify-cli **v0.9.9 or newer**.
 
 Run these commands:
 
-#### Linux and MacOS:
+#### Linux:
 In **Bash**:
 ```bash
 cd "$(dirname "$(spicetify -c)")/Themes/Dribbblish"
