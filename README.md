@@ -2,7 +2,7 @@
 
 ## Screenshots
 #### Base
-![junoTweak](./base.png)
+![junoTweak](https://raw.githubusercontent.com/ouaisbahouais/dribbblish/main/Capture%20d%E2%80%99%C3%A9cran%20du%202021-03-20%2020-37-51.png)
 
 ## More
 Requires spicetify-cli **v0.9.9 or newer**.
