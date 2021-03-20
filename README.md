@@ -2,40 +2,7 @@
 
 ## Screenshots
 #### Base
-![demo1](./base.png)
-
-#### White
-![demo2](./white.png)
-
-#### Dark
-![demo3](./dark.png)
-
-#### Dracula
-![demo4](./dracula.png)
-
-#### Dracula2
-![demoDracula2](./dracula2.png)
-
-#### Gruvbox
-![demoGruvbox](./gruvbox.png)
-
-#### Nord-Dark
-![demo5](./nord-dark.png)
-
-#### Nord-Light
-![demo6](./nord-light.png)
-
-#### Horizon
-![demoHorizon](./horizon.png)
-
-#### Samouraï
-![demoSamourai](./samourai.png)
-
-#### Beach-Sunset
-![demo7](./beach-sunset.png)
-
-#### Purple
-![demo8](./purple.png)
+![junoTweak](./base.png)
 
 ## More
 Requires spicetify-cli **v0.9.9 or newer**.
